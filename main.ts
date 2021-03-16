@@ -1,3 +1,4 @@
+// runs inside code when called on
 function counter (num: number) {
     // when A+B is pressed index increases by 1 from 0 to 100 and loops the inside code every time it increases
     for (let index = 0; index <= num; index++) {
